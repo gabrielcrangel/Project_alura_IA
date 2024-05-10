@@ -1,1 +1,1 @@
-# Project_alura_IA
+# Project_alura_AI
